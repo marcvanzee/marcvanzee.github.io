@@ -1,9 +1,9 @@
-[github.com/marcvanzee](http://www.github.com/marcvanzee) · [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ) · [resumé](#)
+[github](http://www.github.com/marcvanzee) · [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ) · [resumé](#)
 
 ## About me
 
 Senior research engineer at Google Brain, Denmark. Leading the [Flax](flax.readthedocs.io) team.
-Previously working at Google Brain Amsterdam, Zurich, and Pittburgh.  PhD at University of Luxembourg.
+Previously at Google Brain Amsterdam, Zurich, and Pittburgh.  PhD at University of Luxembourg.
 
 ## Publications
 
@@ -93,4 +93,4 @@ Natasha Alechina, Tristan Behrens, Mehdi Dastani, Koen Hindriks, Koen Hubner, Fr
 
 Mehdi Dastani, Marc van Zee. 2013. ["Belief Caching in 2APL"](https://link.springer.com/chapter/10.1007/978-3-642-45343-4_7). In *Workshop on Engineering Multi-Agent Systems (EMAS)*.  
 
-Marc van Zee. 2013. ["Implementing Temporal Action Logics (Master's thesis)"](https://studenttheses.uu.nl/handle/20.500.12932/12561). *Utrecht University, summa cum laude*.  
+Marc van Zee. 2013. ["Implementing Temporal Action Logics (Master's thesis)"](https://studenttheses.uu.nl/handle/20.500.12932/12561). *Utrecht University. grade: summa cum laude*.  
