@@ -4,7 +4,7 @@
 
 Senior researcher/engineer at Google Brain, Denmark. Previously at Google Brain Amsterdam, and Google Brain Zurich. I am a co-lead of the [Flax team](https://flax.readthedocs.io). My research interests lie at the intersection of knowledge representation/reasoning and deep learning. I have a PhD from University of Luxembourg, did a PhD internship at Google Pittsburgh and a PhD exchange to Stanford University.
 
-More links: [github](http://www.github.com/marcvanzee) · [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ) · [resumé](#)
+More links: [github](http://www.github.com/marcvanzee) · [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ) · [resumé](marc_resume2023.pdf)
 
 ----
 
