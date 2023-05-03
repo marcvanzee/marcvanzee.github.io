@@ -3,7 +3,7 @@ external: [github](http://www.github.com/marcvanzee), [google scholar](https://s
 
 ## About me
 
-Senior researcher/engineer at Google DeepMind working in the [JAX team](https://flax.readthedocs.io). Previously at Google Brain. PhD from University of Luxembourg, internship at Google Pittsburgh, exchange to Stanford University.
+Senior researcher/engineer at Google DeepMind working in the [JAX team](https://flax.readthedocs.io). Previously at Google Brain and Google Research. PhD from University of Luxembourg, internship at Google Pittsburgh, exchange to Stanford University.
 
 Research interests: applying ideas and techniques from knowledge representation/reasoning to deep learning using large language models.
 
