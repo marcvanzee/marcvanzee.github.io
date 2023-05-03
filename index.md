@@ -1,4 +1,5 @@
-[about me](#about-me) · [education](#education) · [projects](#projects) · [publications](#publications) | [github](http://www.github.com/marcvanzee) · [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ) · [resumé](marc_resume2023.pdf)
+[about me](#about-me) · [education](#education) · [projects](#projects) · [publications](#publications) · [resumé (pdf)](marc_resume2023.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+external: [github](http://www.github.com/marcvanzee), [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ)
 
 ## About me
 
