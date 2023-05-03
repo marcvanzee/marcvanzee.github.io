@@ -1,10 +1,10 @@
-[about me](#about-me) · [education](#education) · [projects](#projects) · [publications](#publications) 
+[about me](#about-me) · [education](#education) · [projects](#projects) · [publications](#publications) | [github](http://www.github.com/marcvanzee) · [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ) · [resumé](marc_resume2023.pdf)
 
 ## About me
 
-Senior researcher/engineer at Google Brain, Denmark. Previously at Google Brain Amsterdam, and Google Brain Zurich. I am a co-lead of the [Flax team](https://flax.readthedocs.io). My research interests lie at the intersection of knowledge representation/reasoning and deep learning. I have a PhD from University of Luxembourg, did a PhD internship at Google Pittsburgh and a PhD exchange to Stanford University.
+Senior researcher/engineer at Google DeepMind working in the [JAX team](https://flax.readthedocs.io). Previously at Google Brain. PhD from University of Luxembourg, internship at Google Pittsburgh, exchange to Stanford University.
 
-More links: [github](http://www.github.com/marcvanzee) · [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ) · [resumé](marc_resume2023.pdf)
+Research interests: applying ideas and techniques from knowledge representation/reasoning to deep learning using large language models.
 
 ----
 
@@ -25,8 +25,8 @@ Eindhoven University of Technology, Eindhoven, NL
 
 ## Projects
 
-**Flax, Google Brain, Copenhagen/Amsterdam (2020-now)** \
-Role: Lead (2022-now); Team member (2020-2022) \
+**JAX, Google DeepMind, Copenhagen/Amsterdam (2020-now)** \
+Role: Flax Lead (2022-now); Team member (2020-2022) \
 Technology: Python, C++, DL, LLMs
 
 [Flax](https://flax.readthedocs.io) is a neural network library built on top of [JAX](https://jax.readthedocs.io). We provide abstractions for training machine learning models. Flax is used  both in the open source community (like [HuggingFace](https://huggingface.co/flax-community)) and internally Google (like [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Imagen](https://imagen.research.google), [Scenic](https://github.com/google-research/scenic/), [Big Vision](https://github.com/google-research/big_vision), and [T5X](https://github.com/google-research/t5x)). \
@@ -49,6 +49,10 @@ Initially, I was responsible for various aspects of the protoype (e.g.: front-en
 ----
 
 ## Publications
+
+### 2023
+
+Huimin Dong, Marc van Zee, Dragan Doder, Xu Li, Rėka Markovich, Leon van der Torre. "Rights and Practical Reasoning in Deontic Logic". *Under review at DEON 2023*
 
 ### 2022
 
