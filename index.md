@@ -5,7 +5,7 @@ external: [github](http://www.github.com/marcvanzee), [google scholar](https://s
 
 Senior researcher/engineer at Google DeepMind working in the [JAX team](https://flax.readthedocs.io). Previously at Google Brain and Google Research. PhD from University of Luxembourg, internship at Google Pittsburgh, exchange to Stanford University.
 
-Research interests: applying ideas and techniques from knowledge representation/reasoning to deep learning using large language models.
+Research interests: language, compositionality, knowledge representation/reasoning, large language models.
 
 ----
 
@@ -53,7 +53,7 @@ Initially, I was responsible for various aspects of the protoype (e.g.: front-en
 
 ### 2023
 
-Huimin Dong, Marc van Zee, Dragan Doder, Xu Li, Rėka Markovich, Leon van der Torre. "Rights and Practical Reasoning in Deontic Logic". *Under review at DEON 2023*
+Huimin Dong, Marc van Zee, Dragan Doder, Xu Li, Rėka Markovich, Leon van der Torre. "Rights and Practical Reasoning in Deontic Logic". *DEON conference, 2023.*
 
 ### 2022
 
