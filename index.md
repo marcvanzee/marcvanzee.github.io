@@ -1,10 +1,10 @@
-## Interests
+## About me
 
-I am raised as a structuralist, also known as "the uncool part of AI", working on logics. After working for years as an engineer at Google Brain and DeepMind, I have been indoctrinated with [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) that in the long run, scale and compute often outperform approaches trying to build in inductive biases. Still, I believe large language models alone aren't going to cut it. I am currently very much interested in separating fact knowledge from reasoning capabilities in such models. I believe this can help with factuality and explainability, which are two of the biggest issues with such models.
+Raised as a structuralist, I spent my PhD developing logic and proving theorems. Then, working as a research engineer at Google Brain and DeepMind for six years, I have been partly indoctrinated with [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) saying that in the long run, scale and compute often outperform approaches trying to build in inductive biases. Now I want to go back to doing research, and I am currently very much interested in separating fact knowledge from reasoning capabilities in large language models. I believe this can help with factuality and explainability, which are two of the biggest issues with such models.
 
-Here are some external links: [resumé (pdf)](marc_resume2023.pdf), [github](http://www.github.com/marcvanzee), [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ).
+For more information, see my [resumé (pdf)](marc_resume2023.pdf), my [github](http://www.github.com/marcvanzee), or my [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ).
 
-You can also email me at marcvanzee [at] gmail [dot] com.
+You can also email me at `marcvanzee [at] gmail [dot] com`.
 
 ----
 
