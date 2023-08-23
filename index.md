@@ -1,51 +1,10 @@
-[about me](#about-me) · [education](#education) · [projects](#projects) · [publications](#publications) · [resumé (pdf)](marc_resume2023.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-external: [github](http://www.github.com/marcvanzee), [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ)
+## Interests
 
-## About me
+I am raised as a structuralist, also known as "the uncool part of AI", working on logics. After working for years as an engineer at Google Brain and DeepMind, I have been indoctrinated with [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) that in the long run, scale and compute often outperform approaches trying to build in inductive biases. Still, I believe large language models alone aren't going to cut it. I am currently very much interested in separating fact knowledge from reasoning capabilities in such models. I believe this can help with factuality and explainability, which are two of the biggest issues with such models.
 
-Senior researcher/engineer at Google DeepMind working in the [JAX team](https://flax.readthedocs.io). Previously at Google Brain and Google Research. PhD from University of Luxembourg, internship at Google Pittsburgh, exchange to Stanford University.
+Here are some external links: [resumé (pdf)](marc_resume2023.pdf), [github](http://www.github.com/marcvanzee), [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ).
 
-Research interests: language, compositionality, knowledge representation/reasoning, large language models.
-
-----
-
-## Education
-
-**Ph.D. – Computer Science (2017)** *(grade 5/5: outstanding)* \
-University of Luxembourg, Luxembourg, LUX \
-Thesis: ["Rational Architecture = Architecture from a Recommender Perspective"](marcvanzee_phdthesis.pdf)
-
-**MSc.– Artificial Intelligence (2013)** *(summa cum laude)* \
-Utrecht University, Utrecht, NL \
-Thesis: ["Implementing Temporal Action Logics"](https://studenttheses.uu.nl/handle/20.500.12932/12561) (Linköping University, Sweden)
-
-**BSc.– Industrial Design (2009)** *(honours programme)* \
-Eindhoven University of Technology, Eindhoven, NL
-
-----
-
-## Projects
-
-**JAX, Google DeepMind, Copenhagen/Amsterdam (2020-now)** \
-Role: Flax Lead (2022-now); Team member (2020-2022) \
-Technology: Python, C++, DL, LLMs
-
-[Flax](https://flax.readthedocs.io) is a neural network library built on top of [JAX](https://jax.readthedocs.io). We provide abstractions for training machine learning models. Flax is used  both in the open source community (like [HuggingFace](https://huggingface.co/flax-community)) and internally Google (like [PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html), [Imagen](https://imagen.research.google), [Scenic](https://github.com/google-research/scenic/), [Big Vision](https://github.com/google-research/big_vision), and [T5X](https://github.com/google-research/t5x)). \
-Flax started in early 2020, and I joined a few months after. We grew from 4 to 10 member and now support most of Google Research. I helped many users and led a number of projects such as [JAX on the web](https://blog.tensorflow.org/2022/08/jax-on-web-with-tensorflowjs.html), and a [HuggingFace hackathon](https://discuss.huggingface.co/t/open-to-the-community-community-week-using-jax-flax-for-nlp-cv/7104) (over 800 participants). We won the Google Tech Impact award in 2021, and I received over 15 peer bonuses and 5 spot bonuses for my impact in the project.
-
-**T5X, Google Brain, Amsterdam (2020-2022)** \
-Role: Technical contributor \
-Technology: Python, LLMs, DL
-
-[T5X](https://github.com/google-research/t5x) is a modular, composable, research-friendly framework for high-performance sequence models at many scales. \
-I was one of the main technical contributors to T5X, and I was responsible for improving the JAX model parallelism logic, running experiments and overall code improvements. To learn more, see the [T5X Paper](https://arxiv.org/abs/2203.17189).
-
-**Elysium, Google Brain, Zurich (2017-2022)** \
-Role: Engineer/Researcher \
-Technology: Javascript, C++, NLP, DL
-
-Elysium consisted of a team of 13 members trying to rebuild the Google Assistant from the ground up using ideas from description logic. We built and end-to-end prototype for a chatbot and published two papers ([1](https://openreview.net/forum?id=SygcCnNKwr), [2](https://arxiv.org/abs/2007.08970)). \
-Initially, I was responsible for various aspects of the protoype (e.g.: front-end logic, coreference resolution, a context abstraction), but once we started using more Deep Learning, I led setting up the infrastructure based on [T5](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) and doing all relevant experiments for both publications.
+You can also email me at marcvanzee [at] gmail [dot] com.
 
 ----
 
