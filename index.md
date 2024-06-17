@@ -1,6 +1,6 @@
 ## About me
 
-Senior Research Engineer at Google Deepmind, Leading Development of Scalable AI Models such as [Veo](https://deepmind.google/technologies/veo/) and [Imagen 3](https://deepmind.google/technologies/imagen-3/).
+Deep Learning Architect, Leading Development of Scalable AI Models such as [Veo](https://deepmind.google/technologies/veo/) (text-to-video) and [Imagen 3](https://deepmind.google/technologies/imagen-3/) (text-to-image). Currently Senior Research Engineer at Google DeepMind. Previous at Google Brain and Google Research.
 
 For more information, see my [resumé (pdf)](marcvanzee_cv.pdf), my [github](http://www.github.com/marcvanzee), or my [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ).
 
