@@ -1,6 +1,6 @@
 ## About me
 
-Deep Learning Architect, Leading Development of Scalable AI Models such as [Veo](https://deepmind.google/technologies/veo/) (text-to-video) and [Imagen 3](https://deepmind.google/technologies/imagen-3/) (text-to-image). Currently Senior Research Engineer at Google DeepMind. Previous at Google Brain and Google Research.
+Currently I am working on diffusion-based text-to-video ([Veo](https://deepmind.google/technologies/veo/)) and text-to-image ([Imagen 3](https://deepmind.google/technologies/imagen-3/)) at Google DeepMind. Previously I was tech lead of [Flax](https://flax.readthedocs.io/), a neural network library built on JAX, and I worked on language (e.g. the [CFQ dataset](https://github.com/google-research/google-research/blob/master/cfq/README.md), [T5X library](https://github.com/google-research/t5x)). I have published papers and articles in various subdomains of AI such as philosophical logic,  multi-agent systems, fairness and bias, compositional generalization in language, robotics, and others (see a full list below).
 
 For more information, see my [resumé (pdf)](marcvanzee_cv.pdf), my [github](http://www.github.com/marcvanzee), or my [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ).
 
