@@ -1,6 +1,6 @@
 ## About me
 
-Raised as a structuralist, I spent my PhD developing logics and proving theorems. After that, working as a research software engineer at Google Brain and DeepMind for over six years, I have been partly indoctrinated with [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html): in the long run, scale and compute often outperform approaches trying to build in inductive biases. Now, I want to go back to doing research, and I am currently very much interested in separating fact knowledge from reasoning capabilities in large language models. I believe this can help with factuality and explainability, which are two of the biggest issues with such models.
+Senior Research Engineer at Google Deepmind, Leading Development of Scalable AI Models such as [Veo](https://deepmind.google/technologies/veo/) and [Imagen 3](https://deepmind.google/technologies/imagen-3/).
 
 For more information, see my [resumé (pdf)](marcvanzee_cv.pdf), my [github](http://www.github.com/marcvanzee), or my [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ).
 
@@ -10,13 +10,18 @@ You can also email me at `marcvanzee [at] gmail [dot] com`.
 
 ## Publications
 
+### 2024
+
+Anna van Zee, Marc van Zee, and Anders Søgaard. Group fairness in multilingual speech recognition models. In *NAACL 2024*, pages 2213–2226, Mexico City, Mexico, June 2024.
+
 ### 2023
 
 Huimin Dong, Marc van Zee, Dragan Doder, Xu Li, Rėka Markovich, Leon van der Torre. "Rights and Practical Reasoning in Deontic Logic". *DEON conference, 2023.*
 
-### 2022
+Adam Roberts, Hyung Won Chung, Anselm Levskaya, Gaurav Mishra, James Bradbury, Daniel Andor, Sharan Narang, Brian Lester, Colin Gaffney, Afroz Mohiuddin, Curtis Hawthorne, Aitor Lewkowycz, Alex Salcianu, Marc van Zee *et al.* 2022. ["Scaling Up Models and Data with 𝚝𝟻𝚡 and 𝚜𝚎𝚚𝚒𝚘"](https://arxiv.org/abs/2203.17189). In *Journal of Machine Learning
+Research*, 24(377):1–8, 2023.
 
-Adam Roberts, Hyung Won Chung, Anselm Levskaya, Gaurav Mishra, James Bradbury, Daniel Andor, Sharan Narang, Brian Lester, Colin Gaffney, Afroz Mohiuddin, Curtis Hawthorne, Aitor Lewkowycz, Alex Salcianu, Marc van Zee *et al.* 2022. ["Scaling Up Models and Data with 𝚝𝟻𝚡 and 𝚜𝚎𝚚𝚒𝚘"](https://arxiv.org/abs/2203.17189). *arXiv:2203.17189*.
+### 2022
 
 Andreas Steiner, Marc van Zee. 2022. ["JAX on the Web with TensorFlow.js"](https://blog.tensorflow.org/2022/08/jax-on-web-with-tensorflowjs.html). In *Tensorflow Blog*.
 
