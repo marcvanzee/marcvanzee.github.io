@@ -18,7 +18,7 @@ Anna van Zee, Marc van Zee, and Anders Søgaard. [Group fairness in multilingual
 
 ### 2023
 
-Huimin Dong, Marc van Zee, Dragan Doder, Xu Li, Rėka Markovich, Leon van der Torre. "Rights and Practical Reasoning in Deontic Logic". *DEON conference, 2023.*
+Huimin Dong, Marc van Zee, Dragan Doder, Xu Li, Rėka Markovich, Leon van der Torre. ["Rights and Practical Reasoning in Deontic Logic"](https://orbilu.uni.lu/bitstream/10993/60731/1/Rights%20and%20Practical%20Reasoning%20in%20Deontic%20Logic%20%5bDong%20et%20al.%202023%5d.pdf). *DEON conference, 2023.*
 
 Adam Roberts, Hyung Won Chung, Anselm Levskaya, Gaurav Mishra, James Bradbury, Daniel Andor, Sharan Narang, Brian Lester, Colin Gaffney, Afroz Mohiuddin, Curtis Hawthorne, Aitor Lewkowycz, Alex Salcianu, Marc van Zee *et al.* 2022. ["Scaling Up Models and Data with 𝚝𝟻𝚡 and 𝚜𝚎𝚚𝚒𝚘"](https://arxiv.org/abs/2203.17189). In *Journal of Machine Learning
 Research*, 24(377):1–8, 2023.
