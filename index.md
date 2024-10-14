@@ -1,6 +1,8 @@
 ## About me
 
-Currently I am working on diffusion-based text-to-video ([Veo](https://deepmind.google/technologies/veo/)) and text-to-image ([Imagen 3](https://deepmind.google/technologies/imagen-3/)) at Google DeepMind. Previously I was tech lead of [Flax](https://flax.readthedocs.io/), a neural network library built on JAX, and I worked on language (e.g. the [CFQ dataset](https://github.com/google-research/google-research/blob/master/cfq/README.md), [T5X library](https://github.com/google-research/t5x)). I have published papers and articles in various subdomains of AI such as philosophical logic,  multi-agent systems, fairness and bias, compositional generalization in language, robotics, and others (see a full list below).
+I am a research engineer with over a decade of experience, currently specializing in cutting-edge generative image and video models, such as [Imagen 3](https://deepmind.google/technologies/imagen-3/) and [Veo](https://deepmind.google/technologies/veo/) at DeepMind. Previously, I led neural network design efforts at Google Brain, including serving as the Teach Lead of Flax, the most widely-used JAX neural network library globally. I've also been closely involved in the early development of large language models like [T5X](https://github.com/google-research/t5x).
+
+Throughout my career, I've worked across diverse areas of AI, collaborating with researchers and developers from various backgrounds and cultures. I thrive in dynamic environments, wearing multiple hats, and I’m passionate about fostering a positive and inclusive work culture where everyone feels empowered.
 
 For more information, see my [resumé (pdf)](marcvanzee_cv.pdf), my [github](http://www.github.com/marcvanzee), or my [google scholar](https://scholar.google.com/citations?user=OPZa8z4AAAAJ).
 
