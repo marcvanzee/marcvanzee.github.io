@@ -1,6 +1,6 @@
 ## About me
 
-I am a research engineer with over a decade of experience, currently specializing in cutting-edge generative image and video models, such as [Imagen 3](https://deepmind.google/technologies/imagen-3/) and [Veo](https://deepmind.google/technologies/veo/) at DeepMind. Previously, I led neural network design efforts at Google Brain, including serving as the Teach Lead of Flax, the most widely-used JAX neural network library globally. I've also been closely involved in the early development of large language models like [T5X](https://github.com/google-research/t5x).
+I am a research engineer with over a decade of experience, currently specializing in cutting-edge generative image and video models, such as [Imagen 3](https://deepmind.google/technologies/imagen-3/) and [Veo](https://deepmind.google/technologies/veo/) at DeepMind. Previously, I led neural network design efforts at Google Brain, including serving as the Teach Lead of [Flax](https://github.com/google/flax), the most widely-used JAX neural network library globally. I've also been closely involved in the early development of large language models like [T5X](https://github.com/google-research/t5x).
 
 Throughout my career, I've worked across diverse areas of AI, collaborating with researchers and developers from various backgrounds and cultures. I thrive in dynamic environments, wearing multiple hats, and I’m passionate about fostering a positive and inclusive work culture where everyone feels empowered.
 
