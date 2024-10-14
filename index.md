@@ -14,7 +14,9 @@ You can also email me at `marcvanzee [at] gmail [dot] com`.
 
 ### 2024
 
-Anna van Zee, Marc van Zee, and Anders Søgaard. [Group fairness in multilingual speech recognition models](https://aclanthology.org/2024.findings-naacl.143/). In *NAACL 2024*, pages 2213–2226, Mexico City, Mexico, June 2024.
+Jason Baldridge, Jakob Bauer, Mukul Bhutani, Nicole Brichtova, Andrew Bunner, Marc van Zee *et al.* 2024. [Imagen 3](https://arxiv.org/abs/2408.07009). *arXiv preprint arXiv:2408.07009*.
+
+Anna van Zee, Marc van Zee, and Anders Søgaard. 2024. [Group fairness in multilingual speech recognition models](https://aclanthology.org/2024.findings-naacl.143/). In *NAACL 2024*, pages 2213–2226, Mexico City, Mexico, June 2024.
 
 ### 2023
 
